@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   const ENV = {
-    modulePrefix: 'repro-v-x-v2-v-y-v1-addon-coexistence',
+    modulePrefix: 'repro-vX-v2-vY-v1-addon-coexistence',
     environment,
     rootURL: '/',
     locationType: 'history',
